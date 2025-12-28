@@ -1,5 +1,7 @@
 # Booki – Intégration HTML & CSS
 
+![Logo Bookie](images/logo/Booki.png.LOGO.png)
+
 ## Description :
 
 Booki est un site web permettant aux utilisateurs de trouver des hébergements et des activités dans la ville de leur choix.
