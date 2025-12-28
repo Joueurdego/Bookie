@@ -1,6 +1,6 @@
 # Booki – Intégration HTML & CSS
 
-![Logo Bookie](images/logo/Booki.png.LOGO.png)
+![Logo Bookie](images/logo/Booki.png)
 
 ## Description :
 
